@@ -64,7 +64,7 @@ python test.py
 ![img](https://github.com/dirac472/tableOCR/blob/main/table_image/1_0.jpg) 
 
 OCR识别结果：
-见 result文件夹下excel
+![img](https://github.com/dirac472/tableOCR/blob/main/result/img.png) 
 
 # 愿景
 让你的工作或生活有点儿副产品
