@@ -55,11 +55,11 @@ python test.py
 # 👀 效果展示
 原表格图像：
 
-![img](../image/1.jpg)
+![img](https://github.com/dirac472/tableOCR/blob/main/image/1.jpg)
 
 提取到表格图像：
 
-![img](../test/1_0.jpg)
+![img]([../test/1_0.jpg](https://github.com/dirac472/tableOCR/blob/main/image/1.jpg)https://github.com/dirac472/tableOCR/blob/main/table_image/1_0.jpg)
 
 OCR识别结果：
 
