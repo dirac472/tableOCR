@@ -59,9 +59,10 @@ python test.py
 
 提取到表格图像：
 
-![img]([../test/1_0.jpg](https://github.com/dirac472/tableOCR/blob/main/image/1.jpg)https://github.com/dirac472/tableOCR/blob/main/table_image/1_0.jpg)
+![img](https://github.com/dirac472/tableOCR/blob/main/table_image/1_0.jpg) 
 
 OCR识别结果：
+见 result文件夹下excel
 
 # 愿景
 让你的工作或生活有点儿副产品
